@@ -1,6 +1,6 @@
 # helloworld
 
-Simple module that prints HelloWorld :)
+Simple module that prints HelloWorld to the console :)
 
 
 ## Installing
@@ -13,7 +13,7 @@ npm install https://github.com/BitsNibblesAndBytes/helloworld
 
 1. Create a new folder for your project
 2. Initalise the folder using `npm init`
-3. INstall the `helloworld` package using `npm install https://github.com/BitsNibblesAndBytes/helloworld`
+3. Install the `helloworld` package using `npm install https://github.com/BitsNibblesAndBytes/helloworld`
 4. Create a file named `index.js` and add the following code:
 ```
  var mymodule = require('helloworld')
